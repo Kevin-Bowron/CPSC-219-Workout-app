@@ -1,0 +1,56 @@
+Deadlift
+-
+Lat pull down
+-
+Barbell row
+-
+Barbell Curl
+-
+Close grip preacher curl
+-
+Incline hammer curls
+-
+Bent over rows
+-
+Wide grip preacher curl
+-
+Seated cable row
+-
+Bench Press
+1.5,1.5
+150.0,150.0
+-
+Dumbbell Shoulder Press
+1.5,1.5
+1067.5,62.5
+-
+Triceps push downs
+1.5,1.5
+1672.5,718.0
+-
+Lateral Raises
+1.5,1.5
+1168.0,8.0
+-
+Incline Bench Press
+-
+Standing Military Press
+-
+Front Lateral Raises
+-
+Skull Crushers
+-
+Squats
+-
+Leg Press
+-
+Leg extensions
+-
+Leg curls
+-
+Calf Raises
+-
+Hack Squats
+-
+Bulgarian Split Squats
+-
